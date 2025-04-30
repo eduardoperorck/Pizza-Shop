@@ -1,6 +1,6 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 
-import colors, { coolGray } from 'tailwindcss/colors'
+import colors from 'tailwindcss/colors'
 
 import { 
     ResponsiveContainer, 
@@ -9,7 +9,6 @@ import {
     YAxis, 
     CartesianGrid, 
     Line, 
-    Tooltip
 } from 'recharts'
 
 const data = [
