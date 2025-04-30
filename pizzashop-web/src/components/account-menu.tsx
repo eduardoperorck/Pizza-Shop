@@ -8,7 +8,7 @@ import { Skeleton } from "./ui/skeleton";
 import { Dialog, DialogTrigger } from "@radix-ui/react-dialog";
 import { StoreProfileDialog } from "./store-profile-dialog";
 import { signOut } from "@/api/sign-out";
-import { replace, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 export function AccountMenu() {
 
