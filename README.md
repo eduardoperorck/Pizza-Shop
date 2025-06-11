@@ -273,8 +273,4 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Created by Diego Fernandes (diego.schell.f@gmail.com)
-
----
-
-For more detailed information about specific features or implementation details, please refer to the source code and inline documentation.
+Created by Eduardo Ferraz with tutor Diego Fernandes @rocketseat
